@@ -12,3 +12,4 @@
 - DB로는 MySql을 사용하였습니다.
 - HTML, CSS, JavaScript는 bootstrap을 이용하였습니다.
 
+![스크린샷 2021-12-09 오전 12 34 45](https://user-images.githubusercontent.com/94127330/145236882-25d4facc-f28d-4ccf-a879-4b9d74948d4c.png)
